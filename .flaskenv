@@ -1,2 +1,2 @@
-FLASK_APP=event.py
+FLASK_APP=events.py
 FLASK_ENV=development
